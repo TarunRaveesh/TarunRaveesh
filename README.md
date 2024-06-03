@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tarun Raveesh</h1>
 <h3 align="center">A passionate software developer from India. I'm also into Blockchain and Finance.</h3>
-<img img align="right" alt="Coding" width="400" src="Images/programmer.gif>
+<img img align="right" alt="Coding" width="400" src="[Images/programmer.gif](https://dribbble.com/shots/3848914-Programmer-Thomas)>
 
 <p align="left"> <a href="https://twitter.com/0xtrance" target="blank"><img src="https://img.shields.io/twitter/follow/0xtrance?logo=twitter&style=for-the-badge" alt="0xtrance" /></a> </p>
 
