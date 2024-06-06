@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="Images/banner.png" alt="Banner Image" style="width:100%; max-height:300px; object-fit:cover; border-radius:10px;">
+    <img src="Images/banner.jpg" alt="Banner Image" style="width:100%; max-height:300px; object-fit:cover; border-radius:10px;">
 </div>
 
 <h1 align="left">💫 About Me:</h1>
