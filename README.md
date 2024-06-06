@@ -11,7 +11,7 @@
     🤝 Feel free to connect with me and collaborate on exciting projects!<br>
     🔗 You can find me at <a href="mailto:tarunraveesh07@gmail.com">tarunraveesh07@gmail.com</a>.<br>
     ✨ Let's create something amazing together!
-</p><br>
+</p>
 
 <h2 align="left">🌐 Socials</h2>
 <p align="left">
@@ -21,7 +21,7 @@
     <a href="https://x.com/0xTrance">
         <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
     </a>
-</p><br>
+</p>
 
 <h2 align="left">💻 Tech Stack</h2>
 <p align="center">
@@ -43,11 +43,11 @@
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
     <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</p><br>
+</p>
 
 <h2 align="left">📊 GitHub Stats</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=TarunRaveesh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunRaveesh&theme=onedark&hide_border=true" alt="GitHub Streak">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunRaveesh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</p><br>
+</p>
