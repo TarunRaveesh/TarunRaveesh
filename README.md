@@ -2,7 +2,7 @@
     <img src="Images/banner.png" alt="Banner Image" style="width:100%; max-height:300px; object-fit:cover; border-radius:10px;">
 </div>
 
-<h1 align="left">💫 About Me</h1>
+<h1 align="center">💫 About Me</h1>
 <p>
     👋 Hi there! I'm Tarun.<br>
     🌱 I'm currently learning MERN and Blockchain (Solidity).<br>
@@ -24,7 +24,7 @@
 </p>
 
 <h2 align="left">💻 Tech Stack</h2>
-<p align="left">
+<p align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -46,7 +46,7 @@
 </p>
 
 <h2 align="left">📊 GitHub Stats</h2>
-<p align="left">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=TarunRaveesh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunRaveesh&theme=onedark&hide_border=true" alt="GitHub Streak">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunRaveesh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
