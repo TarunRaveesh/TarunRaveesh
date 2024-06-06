@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="Images/banner.jpg" alt="Banner Image" style="width:100%; max-height:300px; object-fit:cover; border-radius:10px;">
+    <img src="Images/banner.png" alt="Banner Image" style="width:100%; max-height:300px; object-fit:cover; border-radius:10px;">
 </div>
 
-<h1 align="left">💫 About Me:</h1>
+<h2 align="left">💫 About Me</h2>
 <p>👋 Hi there! I'm Tarun.</p>
 <p>🌱 I'm currently learning MERN and Blockchain (Solidity).</p>
 <p>💻 I'm passionate about open-source and love contributing to projects that make a difference.</p>
@@ -11,7 +11,7 @@
 <p>🔗 You can find me at <a href="mailto:tarunraveesh07@gmail.com">tarunraveesh07@gmail.com</a>.</p>
 <p>✨ Let's create something amazing together!</p>
 
-<h2 align="left">🌐 Socials:</h2>
+<h3 align="left">🌐 Socials</h3>
 <p align="left">
     <a href="https://linkedin.com/in/tarun-raveesh">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -21,7 +21,7 @@
     </a>
 </p>
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h3 align="left">💻 Tech Stack</h3>
 <p align="left">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -43,7 +43,7 @@
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
-<h2 align="left">📊 GitHub Stats:</h2>
+<h3 align="left">📊 GitHub Stats</h3>
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=TarunRaveesh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunRaveesh&theme=onedark&hide_border=true" alt="GitHub Streak">
