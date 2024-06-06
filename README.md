@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://via.placeholder.com/1500x300.png?text=Welcome" alt="Banner Image" style="width:100%; max-height:300px; object-fit:cover; border-radius:10px;">
+    <img src="Images/banner.png" alt="Banner Image" style="width:100%; max-height:300px; object-fit:cover; border-radius:10px;">
 </div>
 
 <h1 align="left">💫 About Me:</h1>
@@ -45,7 +45,7 @@
 
 <h2 align="left">📊 GitHub Stats:</h2>
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=TarunRaveesh&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunRaveesh&theme=onedark&hide_border=false" alt="GitHub Streak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunRaveesh&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=TarunRaveesh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunRaveesh&theme=onedark&hide_border=true" alt="GitHub Streak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunRaveesh&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
