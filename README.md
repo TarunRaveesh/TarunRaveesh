@@ -2,7 +2,7 @@
     <img src="Images/banner.png" alt="Banner Image" style="width:100%; max-height:300px; object-fit:cover; border-radius:10px;">
 </div>
 
-<h1 align="center"> &#129333; About Me </h1>
+<h1 align="center"> &#129333;&#127995; About Me </h1>
 <p>
     👋 Hi there! I'm Tarun.<br>
     🌱 I'm currently learning MERN and Blockchain (Solidity).<br>
