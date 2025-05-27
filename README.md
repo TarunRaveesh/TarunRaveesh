@@ -18,7 +18,7 @@
     <a href="https://linkedin.com/in/tarun-raveesh">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://x.com/0xTrance">
+    <a href="https://x.com/TranceX07">
         <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X">
     </a>
 </p>
