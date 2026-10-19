@@ -46,4 +46,4 @@ AI agents write many of my first drafts. The judgment stays mine: nothing passes
 
 [LinkedIn](https://linkedin.com/in/tarun-raveesh) &nbsp;·&nbsp; [X](https://x.com/TranceX07) &nbsp;·&nbsp; [Email](mailto:tarunraveesh07@gmail.com)
 
-<sub>Off the keyboard: chess (~1800 blitz and rapid) and singing.</sub>
+Off the keyboard: chess (~1800 blitz and rapid) and singing.
