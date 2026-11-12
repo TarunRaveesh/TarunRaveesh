@@ -44,6 +44,15 @@ AI agents write many of my first drafts. The judgment stays mine: nothing passes
 
 <br>
 
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TarunRaveesh/TarunRaveesh/output/github-snake-dark.svg">
+  <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/TarunRaveesh/TarunRaveesh/output/github-snake.svg" width="100%">
+</picture>
+</p>
+
+<br>
+
 [LinkedIn](https://linkedin.com/in/tarun-raveesh) &nbsp;·&nbsp; [X](https://x.com/TranceX07) &nbsp;·&nbsp; [Email](mailto:tarunraveesh07@gmail.com)
 
 Off the keyboard: chess (~1800 blitz and rapid) and singing.
